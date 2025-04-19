@@ -66,6 +66,11 @@ Las contribuciones son bienvenidas. Por favor:
 
 📜 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](./LICENSE) para más detalles.
+  Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](./LICENSE) para más detalles.
+
+✉️ Contacto
+  Tu Nombre - shector116@gmail.com
+
+  Enlace al proyecto: https://github.com/tu-usuario/vlsm-subnetting-too
 
 
