@@ -29,9 +29,9 @@ python vlsm_tool.py
 
 2. Selecciona el tipo de cálculo:
 
-  Por cantidad de subredes
+    Por cantidad de subredes
   
-  Por cantidad de hosts por subred
+    Por cantidad de hosts por subred
 
 3. Haz clic en "Calcular Subnetting"
 
@@ -39,17 +39,17 @@ python vlsm_tool.py
 
 ✨ Características
 
-    Cálculo avanzado de subredes con VLSM
+  Cálculo avanzado de subredes con VLSM
   
-    Herramientas integradas (ping, DNS, escaneo de puertos)
+  Herramientas integradas (ping, DNS, escaneo de puertos)
   
-    Exportación a PDF y Excel profesional
+  Exportación a PDF y Excel profesional
   
-    Visualización gráfica de subredes
+  Visualización gráfica de subredes
 
-    Historial de cálculos
+  Historial de cálculos
 
-    Modo claro/oscuro
+  Modo claro/oscuro
   
 🤝 Contribución
 Las contribuciones son bienvenidas. Por favor:
