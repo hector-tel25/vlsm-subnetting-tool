@@ -6,6 +6,9 @@
 
 Una aplicación profesional para cálculos de subnetting usando VLSM (Variable Length Subnet Mask), diseñada para administradores de red, estudiantes y profesionales de TI.
 
+<img width="905" height="740" alt="Captura de pantalla_20250819_193657" src="https://github.com/user-attachments/assets/a200e1ec-fced-4ac6-b17a-21a1fba366c6" />
+
+
 ## 📦 Requisitos
 
 - Python 3.8 o superior
