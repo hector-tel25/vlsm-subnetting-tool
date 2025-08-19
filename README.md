@@ -8,6 +8,10 @@ Una aplicación profesional para cálculos de subnetting usando VLSM (Variable L
 
 <img width="905" height="740" alt="Captura de pantalla_20250819_193657" src="https://github.com/user-attachments/assets/a200e1ec-fced-4ac6-b17a-21a1fba366c6" />
 
+<img width="904" height="733" alt="Captura de pantalla_20250819_193758" src="https://github.com/user-attachments/assets/92fe526e-7522-4d0a-afba-8b57fa07b721" />
+
+<img width="909" height="735" alt="Captura de pantalla_20250819_193849" src="https://github.com/user-attachments/assets/71975b72-1090-4ac4-9d32-3397d77fbd9e" />
+
 
 ## 📦 Requisitos
 
